@@ -1,0 +1,6 @@
+Check off when done. For example:
+[] Not Done
+[x] Done
+
+[] Add Trigger to populate primary keys on all tables (in the case of ids and flight numbers) or make all id fields "serial"
+[] Change status for reservations to Confirmed or Waitlisted in BEFORE INSERT Trigger
